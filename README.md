@@ -1,7 +1,7 @@
 # JavaScript_Recipe-App
 An Awesome Recipe App using HTML, CSS &amp; JavaScript .
 
-In this Project, we make use of the **MealDB API**. This API is easy to use.
+In this Project, we make use of the **MealDB API**. 
 
 This project consists of search input and a search button. The user enters the dish name of his choice into this input and hits the search button. When the user clicks on the search button, it displays an image of the respective meal, its name, and the country of origin.
 
