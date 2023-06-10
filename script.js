@@ -5,7 +5,7 @@ const recipeDetailsContent = document.querySelector('.recipe-details-content');
 const recipeCloseBtn = document.querySelector('.recipe-close-btn');
 
 
-// Function to get recipes
+
 const fetchRecipes = async (query) => {
     recipeContainer.innerHTML = "<h2>Fetching Recipes...</h2>";
     try {
@@ -26,7 +26,7 @@ const fetchRecipes = async (query) => {
         button.textContent = "View Recipe";
         recipeDiv.appendChild(button);
 
-        // Adding EventListener to recipe button
+        
         button.addEventListener('click', ()=>{
             openRecipePopup(meal);
         })
@@ -39,7 +39,7 @@ const fetchRecipes = async (query) => {
 
     }
 }
-// Function to fetch ingredients and measurements
+
 const fetchIngredients =(meal) => {
     let ingredientsList = "";
     for(let i=1; i<=20; i++){
