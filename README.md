@@ -8,7 +8,7 @@ This project consists of search input and a search button. The user enters the d
 Along with this, we have a 'View Recipe' button. When the user clicks on this button, there show a list of ingredients along with the measure, and a pop up opens up with the instructions to cook the meal. 
 
 ## Project Folder Structure:
-we create a project folder called - **"Recipe App"**. Inside this folder, we have three files. The first one is *index.html* which is the HTML document. Next, we have *style.css* which is our stylesheet. And finally, we have *script.js* which is the script file.
+We create a project folder called - **"Recipe App"**. Inside this folder, we have three files. The first one is *index.html* which is the HTML document. Next, we have *style.css* which is our stylesheet. And finally, we have *script.js* which is the script file.
 
 ## Project Description:
 ### HTML:
